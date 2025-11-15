@@ -4,6 +4,7 @@
 .LSOverride
 ._*
 
+/test
 # Windows
 Thumbs.db
 Thumbs.db:encryptable
